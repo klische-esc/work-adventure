@@ -1,5 +1,5 @@
 # Map- und Materialsammlung 
-... für Veranstaltungen auf WorkAdventure.
+... für Vereinsvanstaltungen auf WorkAdventure.
 
 Beinhaltet zur Zeit folgende Maps:
 
