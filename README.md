@@ -3,11 +3,12 @@
 
 Beinhaltet zur Zeit folgende Maps:
 # Vorstellung
-  -Hauptkarte
+  - Hauptkarte
   
   ![map](./material/bilder/vorstellung-main.png)
   
-  -Bonner Bühne
+  
+  - Bonner Bühne
   
   ![map](./material/bilder/vorstellung-bonn.png)
   
