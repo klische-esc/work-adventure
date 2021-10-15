@@ -3,10 +3,10 @@
 
 Beinhaltet zur Zeit folgende Maps:
 # Vorstellung
-  -hub
-  ![map](./material/bilder/vorstellung-main.png)
-  -bonn
-  
+  -Hauptkarte
+  (./material/bilder/vorstellung-main.png)
+  -Bonner Bühne
+  (./material/bilder/vorstellung-bonn.png)
 # ECD 2022
   - hub(link)
   (bild)
