@@ -3,12 +3,12 @@
 
 Beinhaltet zur Zeit folgende Maps:
 ### Vorstellung
-  - * [Hauptkarte] (https://play.workadventu.re/@/ecd/vorstellung/hauptkarte)
+  * [Hauptkarte] (https://play.workadventu.re/@/ecd/vorstellung/hauptkarte)
   
   ![map](./material/bilder/vorstellung-main.png)
   
   
-  - * [Bonner Bühne] (https://play.workadventu.re/@/ecd/vorstellung/bühne)
+  * [Bonner Bühne] (https://play.workadventu.re/@/ecd/vorstellung/bühne)
   
   ![map](./material/bilder/vorstellung-bonn.png)
   
