@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entry-stage-bonn"
+                 "value":"vorstellung-main.json#entry-stage-bonn"
                 }],
          "type":"tilelayer",
          "visible":true,

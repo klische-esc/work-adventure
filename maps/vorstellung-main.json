@@ -251,7 +251,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map-stage-bonn.json#from-map"
+                         "value":"vorstellung-bonn.json#from-map"
                         }],
                  "type":"tilelayer",
                  "visible":true,
