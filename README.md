@@ -20,4 +20,3 @@ Beinhaltet zur Zeit folgende Maps:
 ### Verein
   - meetings(link)
   (bild)
-
