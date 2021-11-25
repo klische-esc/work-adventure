@@ -95,12 +95,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/channel\/UCeY0bbntWzzVIaj2z3QigXg\/live"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                         "value":"https:\/\/www.youtube.com\/embed\/d5Xmdk2VB9A"
                         }],
                  "type":"tilelayer",
                  "visible":true,
