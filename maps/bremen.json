@@ -270,6 +270,32 @@
  "nextlayerid":20,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Credits: Matthias Holl\u00e4nder, Jan Gro\u00dfmann"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"...       B\u00fchne Bremen, Equal Care Day 2022."
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"..\/material\/bilder\/bremen.png"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/klische-esc.github.io\/work-adventure\/maps\/bremen.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Bremen"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

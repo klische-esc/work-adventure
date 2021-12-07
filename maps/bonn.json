@@ -258,6 +258,32 @@
  "nextlayerid":19,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Credits: Matthias Holl\u00e4nder, Jan Gro\u00dfmann"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"...       B\u00fchne Bonn, Equal Care Day 2022."
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"..\/material\/bilder\/bonn.png"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/klische-esc.github.io\/work-adventure\/maps\/bonn.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Bonn"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

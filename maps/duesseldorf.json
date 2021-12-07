@@ -270,6 +270,32 @@
  "nextlayerid":20,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"Credits: Matthias Holl\u00e4nder, Jan Gro\u00dfmann"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"...       B\u00fchne D\u00fcsseldorf, Equal Care Day 2022."
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"..\/material\/bilder\/duesseldorf.png"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/klische-esc.github.io\/work-adventure\/maps\/duesseldorf.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Duesseldorf"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
