@@ -53,7 +53,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"main.json#entry-stage-duesseldorf"
+                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/2022\/landschaft#entry-stage-duesseldorf"
                         }],
                  "type":"tilelayer",
                  "visible":true,

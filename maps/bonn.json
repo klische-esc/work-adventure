@@ -27,7 +27,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"main.json#entry-stage-bonn"
+                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/2022\/landschaft#entry-stage-bonn"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -95,7 +95,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCm2fT-qN5VQDOdOSYJDUDwA\n"
+                         "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCRNQfFEtF_l9pkg1IxcvSLA"
                         }, 
                         {
                          "name":"openWebsitePolicy",

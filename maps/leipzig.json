@@ -27,7 +27,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"main.json#entry-stage-leipzig"
+                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/2022\/landschaft#entry-stage-leipzig"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -95,7 +95,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/f2eA7oJtvM8"
+                         "value":"https:\/\/www.youtube.com\/embed\/live_stream?channel=UCRNQfFEtF_l9pkg1IxcvSLA"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         }],
                  "type":"tilelayer",
                  "visible":true,
