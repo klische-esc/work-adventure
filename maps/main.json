@@ -217,7 +217,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"duesseldorf.json#from-map"
+                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/2022\/duesseldorf#from-map"
                         }],
                  "type":"tilelayer",
                  "visible":true,
