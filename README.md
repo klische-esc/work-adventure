@@ -8,19 +8,7 @@ Beinhaltet zur Zeit folgende Maps:
 
   ![map](./material/bilder/main.png)
   
-  
-### Vorstellung
-* [Hauptkarte](https://play.workadventu.re/@/ecd/vorstellung/hauptkarte) 
-
-  
-  ![map](./material/bilder/vorstellung-main.png)
-  
-  
-* [Bonner Bühne](https://play.workadventu.re/@/ecd/vorstellung/bühne) 
-  
-  ![map](./material/bilder/vorstellung-bonn.png)
-  
-
+ 
 ### Verein
   - meetings(link)
   (bild)
