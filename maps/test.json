@@ -211,6 +211,11 @@
                  "opacity":1,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{\n  \"toolbarButtons\": [\"camera\", \"chat\", \"fullscreen\", \"microphone\", \"mute-everyone\", \"participants-pane\", \"raisehand\", \"settings\", \"recording\", \"stats\", \"desktop\", \"tileview\", \"toggle-camera\", \"videoquality\", \"hangup\", \"select-background\", \"etherpad\"]\n}"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"meeting-lagerfeuer-1"
