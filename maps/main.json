@@ -465,7 +465,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{\n  \"toolbarButtons\": [\"select-background\"]\n}"
+                         "value":"{\n  \"toolbarButtons\": [\"camera\", \"chat\", \"fullscreen\", \"microphone\", \"mute-everyone\", \"participants-panel\", \"raisehand\", \"settings\", \"recording\", \"security\", \"stats\", \"sharedvideo\", \"tileview\", \"toggle-camera\", \"videoquality\", \"__end\", \"select-background\"]\n}"
                         }, 
                         {
                          "name":"jitsiRoom",
