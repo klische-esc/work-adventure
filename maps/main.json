@@ -543,6 +543,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"meeting-lagerfeuer-1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"mod"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -566,6 +571,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"meeting-lagerfeuer-2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"mod"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -589,6 +599,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"meeting-lagerfeuer-3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"mod"
                         }],
                  "type":"tilelayer",
                  "visible":true,
