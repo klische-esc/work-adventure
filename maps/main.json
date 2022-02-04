@@ -473,7 +473,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"equalcareday.de\/ecd2023\/"
+                         "value":"https:\/\/equalcareday.de\/ecd2023\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
