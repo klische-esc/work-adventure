@@ -113,7 +113,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/klische-esc.github.io\/work-adventure\/material\/bilder\/plan.png"
+                         "value":"https:\/\/equalcareday.de\/#ee9de19cbc5484373"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -185,7 +185,7 @@
                         {
                          "name":"jitsiConfig",
                          "type":"string",
-                         "value":"{\n  \"toolbarButtons\": [\"camera\", \"chat\", \"fullscreen\", \"microphone\", \"mute-everyone\", \"participants-pane\", \"raisehand\", \"settings\", \"recording\", \"stats\", \"desktop\", \"tileview\", \"toggle-camera\", \"videoquality\", \"hangup\", \"select-background\", \"etherpad\"]\n}"
+                         "value":"{\n  \"toolbarButtons\": [\"camera\", \"chat\", \"fullscreen\", \"microphone\", \"mute-everyone\", \"participants-pane\", \"raisehand\", \"settings\", \"recording\", \"stats\", \"desktop\", \"tileview\", \"toggle-camera\", \"videoquality\", \"hangup\", \"select-background\", \"etherpad\"],\n  \"startWithAudioMuted\": true\n}"
                         }, 
                         {
                          "name":"jitsiRoom",
