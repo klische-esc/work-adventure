@@ -302,17 +302,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"B\u00fchne Bremen, Equal Care Day 2022"
+         "value":"B\u00fchne Bremen der St\u00e4dtekonferenz zum Equal Care Day 2022"
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"..\/material\/bilder\/bremen.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/klische-esc.github.io\/work-adventure\/maps\/bremen.json"
         }, 
         {
          "name":"mapName",
@@ -335,7 +330,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"\u00a9 Matthias Holl\u00e4nder 2022\n\u00a9 pipoya FREE RPG Tileset 32x32 <https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32>\n\u00a9 WorkAdventure 2021 <https:\/\/workadventu.re\/re> License: WORKADVENTURE RESOURCES LICENCE"
+                 "value":"\u00a9 Matthias Holl\u00e4nder 2022\n\n\u00a9 pipoya FREE RPG Tileset 32x32 <https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32>\n"
                 }],
          "spacing":0,
          "tilecount":1120,

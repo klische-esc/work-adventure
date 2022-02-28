@@ -495,11 +495,6 @@
          "value":"..\/material\/bilder\/test.png"
         }, 
         {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/klische-esc.github.io\/work-adventure\/maps\/test.json"
-        }, 
-        {
          "name":"mapName",
          "type":"string",
          "value":"Testlandschaft"
@@ -562,6 +557,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"boden",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\u00a9 Matthias Holl\u00e4nder 2022\n\n\u00a9 pipoya FREE RPG Tileset 32x32 <https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32>\n"
+                }],
          "spacing":0,
          "tilecount":1120,
          "tileheight":32,

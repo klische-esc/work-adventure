@@ -290,17 +290,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"B\u00fchne Bonn, Equal Care Day 2022"
+         "value":"B\u00fchne Bonn der St\u00e4dtekonferenz zum Equal Care Day 2022"
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"..\/material\/bilder\/bonn.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/klische-esc.github.io\/work-adventure\/maps\/bonn.json"
         }, 
         {
          "name":"mapName",
@@ -319,6 +314,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"boden",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\u00a9 Matthias Holl\u00e4nder 2022\n\n\u00a9 pipoya FREE RPG Tileset 32x32 <https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32>\n"
+                }],
          "spacing":0,
          "tilecount":1120,
          "tileheight":32,
