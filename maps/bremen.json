@@ -297,7 +297,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Matthias Holl\u00e4nder, Jan Gro\u00dfmann"
+         "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022"
         }, 
         {
          "name":"mapDescription",
@@ -331,6 +331,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"boden",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\u00a9 Matthias Holl\u00e4nder 2022\n\u00a9 pipoya FREE RPG Tileset 32x32 <https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32>\n\u00a9 WorkAdventure 2021 <https:\/\/workadventu.re\/re> License: WORKADVENTURE RESOURCES LICENCE"
+                }],
          "spacing":0,
          "tilecount":1120,
          "tileheight":32,
