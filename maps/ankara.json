@@ -302,7 +302,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"B\u00fchne Bremen, Equal Care Day 2022"
+         "value":"B\u00fchne Ankara, Equal Care Day 2022"
         }, 
         {
          "name":"mapImage",
@@ -312,12 +312,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/klische-esc.github.io\/work-adventure\/maps\/bremen.json"
+         "value":"https:\/\/klische-esc.github.io\/work-adventure\/maps\/ankara.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Bremen"
+         "value":"Ankara"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
