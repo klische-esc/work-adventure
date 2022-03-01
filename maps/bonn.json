@@ -95,12 +95,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/DwLC8Hv4ZIc"
-                        }, 
-                        {
-                         "name":"openWebsitePolicy",
-                         "type":"string",
-                         "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                         "value":"https:\/\/equalcareday.de\/ecd2022\/danke\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
