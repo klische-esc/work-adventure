@@ -284,9 +284,38 @@
          "width":31,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":21,
+         "name":"text",
+         "objects":[
+                {
+                 "height":40.3333333333334,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Arial Rounded MT Bold",
+                     "pixelsize":30,
+                     "text":"International",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":209.666666666667,
+                 "x":399.833333333333,
+                 "y":702.5
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":21,
- "nextobjectid":1,
+ "nextlayerid":22,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "properties":[
         {
