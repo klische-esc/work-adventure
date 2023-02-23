@@ -139,7 +139,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/hack.chat\/?ecd-2022-duesseldorf"
+                         "value":"https:\/\/hack.chat\/?ecd-2022-international"
                         }],
                  "type":"tilelayer",
                  "visible":true,
