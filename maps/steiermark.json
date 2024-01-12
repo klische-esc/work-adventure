@@ -12,27 +12,22 @@
                 {
                  "name":"mapCopyright",
                  "type":"string",
-                 "value":"Credits: Matthias Holl\u00e4nder, Jan Gro\u00dfmann"
+                 "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2024"
                 }, 
                 {
                  "name":"mapDescription",
                  "type":"string",
-                 "value":"...                       B\u00fchne D\u00fcsseldorf, Equal Care Day 2022."
+                 "value":"...                       B\u00fchne Steiermark, Equal Care Day-Festival 2024"
                 }, 
                 {
                  "name":"mapImage",
                  "type":"string",
-                 "value":"..\/material\/bilder\/duesseldorf.png"
-                }, 
-                {
-                 "name":"mapLink",
-                 "type":"string",
-                 "value":"https:\/\/klische-esc.github.io\/work-adventure\/maps\/duesseldorf.json"
+                 "value":"..\/material\/bilder\/steiermark.png"
                 }, 
                 {
                  "name":"mapName",
                  "type":"string",
-                 "value":"Duesseldorf"
+                 "value":"Steiermark"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -53,7 +48,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/konferenz-2023\/care-landschaft#entry-stage-steiermark"
+                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/festival-2024\/care-landschaft#entry-stage-steiermark"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -121,7 +116,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/NoZr_EUBW9E"
+                         "value":"https:\/\/www.youtube.com\/embed\/Y1Dg8IOdseg"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -144,7 +139,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/hack.chat\/?ecd-2023-steiermark"
+                         "value":"https:\/\/hack.chat\/?ecd-2024-steiermark"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -332,7 +327,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/material\/tilesets\/tileset-holle-boden.png",
+         "image":"..\/..\/material\/tilesets\/tileset-holle-boden.png",
          "imageheight":2240,
          "imagewidth":512,
          "margin":0,
@@ -351,7 +346,7 @@
         {
          "columns":30,
          "firstgid":1121,
-         "image":"..\/material\/tilesets\/ecd_buehne-bonn.png",
+         "image":"..\/..\/material\/tilesets\/ecd_buehne-bonn.png",
          "imageheight":2240,
          "imagewidth":960,
          "margin":0,
@@ -364,7 +359,7 @@
         {
          "columns":16,
          "firstgid":3221,
-         "image":"..\/material\/tilesets\/tileset-holle-moebel.png",
+         "image":"..\/..\/material\/tilesets\/tileset-holle-moebel.png",
          "imageheight":2240,
          "imagewidth":512,
          "margin":0,
@@ -377,7 +372,7 @@
         {
          "columns":16,
          "firstgid":4341,
-         "image":"..\/material\/tilesets\/tileset-holle-natur.png",
+         "image":"..\/..\/material\/tilesets\/tileset-holle-natur.png",
          "imageheight":2240,
          "imagewidth":512,
          "margin":0,
@@ -390,7 +385,7 @@
         {
          "columns":6,
          "firstgid":5461,
-         "image":"..\/material\/tilesets\/spezial_zonen.png",
+         "image":"..\/..\/material\/tilesets\/spezial_zonen.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -413,7 +408,7 @@
         {
          "columns":30,
          "firstgid":5473,
-         "image":"..\/material\/tilesets\/ecd_buehne-bremen-duesseldorf.png",
+         "image":"..\/..\/material\/tilesets\/ecd_buehne-bremen-duesseldorf.png",
          "imageheight":1920,
          "imagewidth":960,
          "margin":0,
@@ -426,7 +421,7 @@
         {
          "columns":30,
          "firstgid":7273,
-         "image":"..\/material\/tilesets\/tileset-buehne-steiermark.png",
+         "image":"..\/..\/material\/tilesets\/tileset-buehne-steiermark.png",
          "imageheight":1920,
          "imagewidth":960,
          "margin":0,
