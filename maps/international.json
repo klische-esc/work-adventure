@@ -332,7 +332,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/..\/material\/tilesets\/tileset-holle-boden.png",
+         "image":"..\/material\/tilesets\/tileset-holle-boden.png",
          "imageheight":2240,
          "imagewidth":512,
          "margin":0,
@@ -351,7 +351,7 @@
         {
          "columns":30,
          "firstgid":1121,
-         "image":"..\/..\/material\/tilesets\/ecd_buehne-bonn.png",
+         "image":"..\/material\/tilesets\/ecd_buehne-bonn.png",
          "imageheight":2240,
          "imagewidth":960,
          "margin":0,
@@ -364,7 +364,7 @@
         {
          "columns":16,
          "firstgid":3221,
-         "image":"..\/..\/material\/tilesets\/tileset-holle-moebel.png",
+         "image":"..\/material\/tilesets\/tileset-holle-moebel.png",
          "imageheight":2240,
          "imagewidth":512,
          "margin":0,
@@ -377,7 +377,7 @@
         {
          "columns":16,
          "firstgid":4341,
-         "image":"..\/..\/material\/tilesets\/tileset-holle-natur.png",
+         "image":"..\/material\/tilesets\/tileset-holle-natur.png",
          "imageheight":2240,
          "imagewidth":512,
          "margin":0,
@@ -390,7 +390,7 @@
         {
          "columns":6,
          "firstgid":5461,
-         "image":"..\/..\/material\/tilesets\/spezial_zonen.png",
+         "image":"..\/material\/tilesets\/spezial_zonen.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -413,7 +413,7 @@
         {
          "columns":30,
          "firstgid":5473,
-         "image":"..\/..\/material\/tilesets\/ecd_buehne-bremen-duesseldorf.png",
+         "image":"..\/material\/tilesets\/ecd_buehne-bremen-duesseldorf.png",
          "imageheight":1920,
          "imagewidth":960,
          "margin":0,
