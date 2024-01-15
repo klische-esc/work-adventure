@@ -48,7 +48,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/festival-2024\/care-landschaft#entry-stage-steiermark"
+                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/festival2024\/care-landschaft#entry-stage-steiermark"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -303,12 +303,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2023"
+         "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2024"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Livestream-B\u00fchne der St\u00e4dtekonferenz zum Equal Care Day 2023"
+         "value":"...                       Internationale B\u00fchne, Equal Care Day-Festival 2024"
         }, 
         {
          "name":"mapImage",
