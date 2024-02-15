@@ -454,12 +454,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022"
+         "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2024"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Testlandschaft des Equal Care Day 2022"
+         "value":"Testlandschaft des Equal Care Day 2024"
         }, 
         {
          "name":"mapImage",
