@@ -116,7 +116,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/cbgBjJK5SPE"
+                         "value":"https:\/\/www.youtube.com\/embed\/pSf6f5dcWTM"
                         }, 
                         {
                          "name":"openWebsitePolicy",
@@ -139,7 +139,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/hack.chat\/?ecd-2024-gemeinschaft"
+                         "value":"https:\/\/hack.chat\/?ecd-2024-care"
                         }],
                  "type":"tilelayer",
                  "visible":true,
