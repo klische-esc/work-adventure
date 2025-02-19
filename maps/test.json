@@ -241,7 +241,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"lotsin"
+                         "value":"mod"
                         }],
                  "type":"tilelayer",
                  "visible":true,
