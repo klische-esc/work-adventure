@@ -1696,17 +1696,17 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2024"
+         "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2025"
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Hauptlandschaft des Equal Care Day-Festivals 2024"
+         "value":"Hauptlandschaft des Equal Care Day-Festivals 2025"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"..\/material\/bilder\/entwurf 2024 neu.png"
+         "value":"..\/material\/bilder\/landschaft2025.png"
         }, 
         {
          "name":"mapName",
@@ -1721,7 +1721,7 @@
         {
          "name":"tilesetCopyright",
          "type":"string",
-         "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2024;\nFREE RPG Tileset 32x32 by pipoya\nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+         "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2025;\nFREE RPG Tileset 32x32 by pipoya\nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
         }, 
         {
          "name":"tutorial",

@@ -308,17 +308,17 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Livestream-B\u00fchne des Equal Care Day-Festivals 2024"
+         "value":"Livestream-B\u00fchne des Equal Care Day-Festivals 2025"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"..\/material\/bilder\/care.png"
+         "value":"..\/material\/bilder\/haupt2025.png"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Care"
+         "value":"Hauptbuehne"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
