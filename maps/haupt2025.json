@@ -48,7 +48,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/test-landschaft\/care-landschaft#entry-stage-hauptbuehne"
+                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/festival2025\/care-landschaft#entry-stage-hauptbuehne"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -116,7 +116,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/Y1Dg8IOdseg"
+                         "value":"https:\/\/www.youtube.com\/embed\/mqY89s74FJo"
                         }, 
                         {
                          "name":"openWebsitePolicy",
