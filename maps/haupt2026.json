@@ -35,12 +35,12 @@
                 {
                  "name":"mapCopyright",
                  "type":"string",
-                 "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2024"
+                 "value":"\u00a9 Matthias Holl\u00e4nder & Jan Gro\u00dfmann 2022-2026"
                 }, 
                 {
                  "name":"mapDescription",
                  "type":"string",
-                 "value":"...                       Care-B\u00fchne, Equal Care Day-Festival 2024"
+                 "value":"...                       B\u00fchne, Equal Care Day-Festival 2026"
                 }, 
                 {
                  "name":"mapImage",
@@ -50,7 +50,7 @@
                 {
                  "name":"mapName",
                  "type":"string",
-                 "value":"Care"
+                 "value":"Buehne"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -94,7 +94,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/festival2025\/care-landschaft#entry-stage-hauptbuehne"
+                         "value":"https:\/\/play.workadventu.re\/@\/equal-care-day\/festival2026\/landschaft#entry-stage-buehne"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -640,7 +640,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4181, 4182, 4183, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4199, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2643, 2644, 2645, 2646, 2647, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":24,
