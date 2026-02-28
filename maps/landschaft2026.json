@@ -10667,7 +10667,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"mod"
+                         "value":"lotsin"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -10833,7 +10833,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"mod"
+                         "value":"lotsin"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -10999,7 +10999,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"mod"
+                         "value":"lotsin"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -11165,7 +11165,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"mod"
+                         "value":"lotsin"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -11331,7 +11331,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"mod"
+                         "value":"lotsin"
                         }],
                  "type":"tilelayer",
                  "visible":true,
